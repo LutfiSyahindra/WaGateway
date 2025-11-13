@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+.DS_Store
+
+# Log dan file runtime
+logs/
+*.log
+
+# VSCode / JetBrains
+.vscode/
+.idea/
